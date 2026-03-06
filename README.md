@@ -94,7 +94,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRvandals4vage&layout=compact&theme=github_dark)
 
 </div>
----
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Systems+Builder;Full+Stack+Engineer;AI+Tooling+Developer;I+Ship+Things" />

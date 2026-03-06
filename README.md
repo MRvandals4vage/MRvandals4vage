@@ -88,7 +88,6 @@
   </tr>
 </table>
 
----
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRvandals4vage&layout=compact&theme=github_dark)
@@ -100,7 +99,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 

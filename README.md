@@ -8,15 +8,15 @@
 
 <div align="center">
 
-*Builder. Breaker. Rebuilder.*
+### Builder • Breaker • Rebuilder
 
 <p align="center"> 
   <img src="https://profile-counter.deno.dev/MRvandals4vage/count.svg"/>
 </p>
 
----
-
 </div>
+
+---
 
 <h3 align="left">Table of Tech</h3>
 
@@ -29,10 +29,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,python,ts,js" />
+      <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,rust" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=express,nestjs,fastapi,nodejs" />
@@ -42,10 +42,11 @@
     </td>
   </tr>
 
-  <tr align="center">
+  <tr>
     <th align="center">DevOps</th>
     <th align="center">Mobile & Desktop</th>
     <th align="center">IoT / Hardware</th>
+    <th align="center">Cloud</th>
   </tr>
 
   <tr>
@@ -53,10 +54,13 @@
       <img src="https://skillicons.dev/icons?i=docker,githubactions" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,swift,tauri" />
+      <img src="https://skillicons.dev/icons?i=react,swift,tauri,electron" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" />
     </td>
   </tr>
 
@@ -69,19 +73,29 @@
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=npm" />
+      <img src="https://skillicons.dev/icons?i=npm,bun" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vim,bash" />
+      <img src="https://skillicons.dev/icons?i=vim,bash,linux" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,figma" />
+      <img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="left">Featured Projects</h3>
+
+| Project | Description |
+|------|-------------|
+| **CodeAtlas** | AI-powered codebase architecture analyzer |
+| **ACM GridLock Event Platform** | Full-stack event management system |
+| **Developer Tooling Experiments** | CLI utilities and dev workflow tools |
 
 ---
 
@@ -121,7 +135,17 @@
 
 ---
 
-<h3 align="left">Open Source</h3>
+<h3 align="left">Contribution Snake</h3>
+
+<div align="center">
+
+![snake gif](https://github.com/MRvandals4vage/MRvandals4vage/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<h3 align="left">Open Source Philosophy</h3>
 
 If something here looks interesting, feel free to:
 

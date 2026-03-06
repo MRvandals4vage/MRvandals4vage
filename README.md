@@ -184,9 +184,7 @@ Full-stack event management platform.
 <h3 align="left">Contribution Snake</h3>
 
 <div align="center">
-
 ![snake gif](https://github.com/MRvandals4vage/MRvandals4vage/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---

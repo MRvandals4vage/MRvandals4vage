@@ -18,6 +18,7 @@
 
 ---
 
+
 <h3 align="left">Table of Tech</h3>
 
 <table align="center">
@@ -94,47 +95,82 @@
 
 </div>
 ---
+<div align="center">
 
-<h3 align="left">Systems I Like Building</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Systems+Builder;Full+Stack+Engineer;AI+Tooling+Developer;I+Ship+Things" />
 
-- Codebase analysis engines
-- Developer tooling
-- AI-assisted developer workflows
-- CLI systems and automation
-- Full-stack web platforms
-- Experimental systems projects
+</div>
 
 ---
 
-<h3 align="left">Featured Projects</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2"/>
+
+</div>
+
+---
+
+## Systems I Like Building
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120"/>
+
+</div>
+
+<div align="center">
+
+| Developer Systems |  Platforms |  Experiments |
+|---------------------|--------------|---------------|
+| Codebase analysis engines | Full-stack platforms | AI developer tooling |
+| CLI automation tools | Scalable backend APIs | experimental systems |
+| developer workflows | event & community systems | architecture experiments |
+
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
-### CodeAtlas
-AI-powered codebase architecture analyzer.
+### CodeAtlas  
 
-- AST based repository analysis
-- API surface extraction
-- semantic code graphs
-- LLM-ready codebase summaries
+AI-powered **codebase architecture analyzer**
+
+⚡ Features
+
+• AST based repository analysis  
+• API surface extraction  
+• semantic code graphs  
+• LLM-ready architecture summaries  
 
 </td>
 
 <td width="50%">
 
-### GridLock Event Platform
-Full-stack event management platform.
+### GridLock Event Platform  
 
-- Next.js frontend
-- Express API backend
-- real-time event management
-- scalable architecture
+Full-stack event management system
+
+⚡ Features
+
+• Next.js frontend  
+• Express API backend  
+• real-time event management  
+• scalable architecture  
 
 </td>
 </tr>
 </table>
+
+</div>
+
 ---
 
 <h3 align="left">Stats of Obsession</h3>

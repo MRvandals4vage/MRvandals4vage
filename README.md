@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### Builder • Breaker • Rebuilder
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Systems+Builder;Full-Stack+Engineer;AI+Tooling+Developer;I+Ship+Things" />
 
 <p align="center"> 
   <img src="https://profile-counter.deno.dev/MRvandals4vage/count.svg"/>
@@ -91,12 +91,33 @@
 
 <h3 align="left">Featured Projects</h3>
 
-| Project | Description |
-|------|-------------|
-| **CodeAtlas** | AI-powered codebase architecture analyzer |
-| **ACM GridLock Event Platform** | Full-stack event management system |
-| **Developer Tooling Experiments** | CLI utilities and dev workflow tools |
+<table>
+<tr>
+<td width="50%">
 
+### CodeAtlas
+AI-powered codebase architecture analyzer.
+
+- AST based repository analysis
+- API surface extraction
+- semantic code graphs
+- LLM-ready codebase summaries
+
+</td>
+
+<td width="50%">
+
+### GridLock Event Platform
+Full-stack event management platform.
+
+- Next.js frontend
+- Express API backend
+- real-time event management
+- scalable architecture
+
+</td>
+</tr>
+</table>
 ---
 
 <h3 align="left">Stats of Obsession</h3>

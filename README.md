@@ -88,6 +88,23 @@
 </table>
 
 ---
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRvandals4vage&layout=compact&theme=github_dark)
+
+</div>
+---
+
+<h3 align="left">Systems I Like Building</h3>
+
+- Codebase analysis engines
+- Developer tooling
+- AI-assisted developer workflows
+- CLI systems and automation
+- Full-stack web platforms
+- Experimental systems projects
+
+---
 
 <h3 align="left">Featured Projects</h3>
 
@@ -135,6 +152,14 @@ Full-stack event management platform.
 </div>
 
 ---
+
+<h3 align="left">GitHub Trophies</h3>
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=MRvandals4vage&theme=darkhub&no-frame=true&margin-w=15)
+
+</div>
 
 <h3 align="left">Contribution Streak</h3>
 
